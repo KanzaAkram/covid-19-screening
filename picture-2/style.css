@@ -1,0 +1,30 @@
+.color{
+    background-color: rgb(226, 217, 217);
+    
+
+}
+.cross{
+padding-top: 20px;
+padding-left: 20px;
+
+}
+
+.row > .mainhead{
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-bottom:40px;
+    padding-right:30px;
+}
+
+#screening > button{
+   width:90%;
+   margin-left: 5%;
+}
+
+.row >  img{
+    width: 90%;
+    height: 90%;
+    padding-left: 60px;
+    padding-bottom: 40px;
+   
+}
