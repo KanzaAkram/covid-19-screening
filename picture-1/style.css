@@ -16,6 +16,15 @@
     padding-bottom: 40px;
 }
 
-hr{
-    margin: 0rem 10rem 0rem 10rem;
+.arrow{
+   
+    float:right; 
+    padding:0;
+    margin:0;
+}
+p{
+    text-align: justify;
+}
+h2{
+    text-align: justify;
 }
